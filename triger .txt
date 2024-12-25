@@ -1,0 +1,42 @@
+triger 
+vue
+
+
+
+
+
+
+
+
+
+
+
+
+--------------
+ 
+horaire : salaire de base : 
+			2080/12=177,333 
+			177,333*heure Normal = salaire de base 
+
+
+
+
+--------------------------------
+
+des rubrique de base :
+AUG SALAIRE 96/2014
+AUG SALAIRE 2015/2016
+AUG specifique 16/18         lezim ykounou cocher (tnajamech tbadel fehom)
+AUG SALAIRE 2021
+salaire de base 
+PRIME PRESENCE
+
+
+liste déroulante (fama des rubrique andu plusieurs valeur (plusieurs prix)) (5ater tabda nafes esim rubrique and barcha ama mich nafes salaire) 
+
+
+
+
+
+
+			

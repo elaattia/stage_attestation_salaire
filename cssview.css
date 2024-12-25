@@ -1,0 +1,84 @@
+/* Reset des marges et des espacements pour éviter les incohérences entre les navigateurs */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    background: #e4e9f7;
+    text-align: center;
+}
+
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style de base pour le corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Style pour les titres */
+h1 {
+    color: rgba(76, 68, 182, 0.808);;
+    margin-bottom: 20px;
+}
+
+/* Style pour les paragraphes */
+p {
+    margin-bottom: 10px;
+}
+
+/* Style pour les boutons */
+button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Style pour les liens */
+a {
+    text-decoration: none;
+}
+
+/* Style pour les séparateurs */
+hr {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+
+.btn {
+    height: 35px;
+    background: rgba(76, 68, 182, 0.808);
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all .3s;
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+
+.btn:hover {
+    opacity: 0.82;
+}
+
+.submit {
+    width: 100%;
+}

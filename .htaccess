@@ -1,0 +1,9 @@
+# Activer la réécriture d'URL
+RewriteEngine On
+
+# Rediriger les erreurs 404 vers une page personnalisée
+ErrorDocument 404 /404.html
+
+# Activer le support des erreurs PHP
+php_flag display_errors On
+php_value error_reporting 32767
